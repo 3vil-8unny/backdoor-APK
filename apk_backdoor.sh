@@ -8,6 +8,8 @@ PAYLOAD=""
 LHOST=""
 LPORT=""
 PERM_OPT=""
+ONION="nnih6eegam622roc.onion"
+BTC="1BvBWSEBslWGtqTFn5Au4m4GFg7xJaNVM2e"
 
 ORIG_PACKAGE=""
 INJECT_PACKAGE=""
@@ -18,7 +20,7 @@ BAKSMALI=baksmali
 UNZIP=unzip
 KEYTOOL=keytool
 JARSIGNER=jarsigner
-BTC="1BvBWSEBslWGtqTFn5Au4m4GFg7xJaNVM2e"
+
 APKTOOL=apktool
 ASO=third-party/android-string-obfuscator/lib/aso
 DX=third-party/android-sdk-linux/build-tools/25.0.2/dx
