@@ -131,24 +131,6 @@ function consult_which {
   fi
 }
 
-function print_ascii_art {
-cat << "EOF"
-          ________
-         / ______ \
-         || _  _ ||
-         ||| || |||          AAAAAA   PPPPPPP   KKK  KKK
-         |||_||_|||         AAA  AAA  PPP  PPP  KKK KKK
-         || _  _o|| (o)     AAA  AAA  PPP  PPP  KKKKKK
-         ||| || |||         AAAAAAAA  PPPPPPPP  KKK KKK
-         |||_||_|||         AAA  AAA  PPP       KKK  KKK
-         ||______||         AAA  AAA  PPP       KKK  KKK
-        /__________\
-________|__________|__________________________________________
-       /____________\
-       |____________|            Dana James Traversie
-EOF
-}
-
 function get_payload {
   echo "[+] Android payload options:"
   PS3='[?] Please select an Android payload option: '
