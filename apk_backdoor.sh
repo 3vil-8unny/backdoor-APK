@@ -8,7 +8,7 @@ PAYLOAD=""
 LHOST=""
 LPORT=""
 PERM_OPT=""
-ONION="nnih6eegam622roc.onion"
+ONION=""
 BTC="1BvBWSEBslWGtqTFn5Au4m4GFg7xJaNVM2e"
 
 ORIG_PACKAGE=""
